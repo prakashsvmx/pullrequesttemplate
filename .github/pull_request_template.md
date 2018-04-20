@@ -11,6 +11,6 @@ _Describe the problem or feature shortly._
 - [ ] Coverage Verified with the command npm run cov
 - [ ] Peer review done (mention Peer Reviewers)
 - [ ] Tested salesforce satatic resource with JSR Action in Salesforce environment's Test Visualforce Page
-- [ ] JSR Action Mapping updated in SFM_Designer Visualforce Page
+- [ ] Update JSR Action Mapping in SFM_Designer Visualforce Page
 
 _List Miscellaneous updates like New npm packages, npm package upgrades, Known issues, and any followup Ticket References_
