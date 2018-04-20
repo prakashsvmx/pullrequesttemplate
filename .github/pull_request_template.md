@@ -4,7 +4,7 @@ PR Title <JIRA Ticket Number> - with Shortest Description e.g SFMDZ-XXX - Transa
 _Describe the problem or feature shortly._
 
 #### Pre-PR Checklist
-- [ ] Naming Convention of Components, Methods, Actions .
+- [ ] Naming Convention of Components, Methods, Actions, Variables, CSS Class Names etc.
 - [ ] Code Style Check with the command npm run lint .
 - [ ] CSS Style Check with the command npm run lint-style .
 - [ ] Unit Test running with the command npm test
